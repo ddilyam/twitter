@@ -10,5 +10,5 @@ You can send a simple tweet in this app.
 + React Flip Move
 
 ## Author
-Mert Çankaya
+ddilyam
 
